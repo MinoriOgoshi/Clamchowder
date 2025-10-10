@@ -5,6 +5,8 @@
 This is the project of creating seashell form on Grasshopper and Rhino.
 This project also has an .exe file for setting seashell aperture coordinates from CT image.
 
+Currently, two mathematical models—Ubukata Model and Cortie Model—are available for use.
+
 The paper on this project can be read at the URL.
 https://zenodo.org/records/15972064
 
